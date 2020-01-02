@@ -1,0 +1,4 @@
+#Thu Jan 02 15:56:37 EET 2020
+base.0=C\:\\Users\\m_eldeeb\\Downloads\\assignment1-master\\assignment1-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
